@@ -1,0 +1,22 @@
+.scroll-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  display: none;
+  z-index: 2;
+}
+
+.scroll-btn__img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  transition: filter .3s ease-in-out;
+  filter: invert(23%) sepia(83%) saturate(4056%) hue-rotate(243deg) brightness(107%) contrast(111%);
+}
+
+.scroll-btn__img:hover {
+  filter: invert(13%) sepia(78%) saturate(5778%) hue-rotate(251deg) brightness(88%) contrast(87%);
+}

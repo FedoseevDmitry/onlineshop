@@ -1,0 +1,42 @@
+body {
+  background-color: var(--color-bg-black-theme);
+  color: var(--color-text-black-theme);
+}
+
+.header {
+  background-color: var(--color-bg-nav-black-theme);
+}
+
+.theme-switch__img {
+  filter: invert(100%);
+}
+
+.card {
+  background-color: var(--color-bg-nav-black-theme);
+}
+
+.footer {
+  background-color: var(--color-bg-nav-black-theme);
+}
+
+.modal__wrapper {
+  background-color: var(--color-bg-black-theme);
+}
+
+.modal {
+  color: #fff;
+}
+
+.form__input {
+  background-color: var(--color-bg-nav-black-theme);
+  color: #fff;
+}
+
+.form__textarea {
+  background-color: var(--color-bg-nav-black-theme);
+  color: #fff;
+}
+
+.modal__btn-img {
+  filter: invert(100%) sepia(0%) saturate(7476%) hue-rotate(285deg) brightness(100%) contrast(97%);
+}

@@ -1,0 +1,276 @@
+[
+  {
+    "categoryName": "Футболки",
+    "categoryId": "tshirts",
+    "items": [
+      {
+        "image": "db/img/t1.avif",
+        "description": "Unisex Oversized Base",
+        "date": "29.10.2021"
+      },
+      {
+        "image": "db/img/t2.avif",
+        "description": "Unisex Body Base",
+        "date": "18.11.2019"
+      },
+      {
+        "image": "db/img/t3.avif",
+        "description": "Typography Boxy",
+        "date": "11.01.2023"
+      },
+      {
+        "image": "db/img/t4.avif",
+        "description": "Saturated Eye Loose",
+        "date": "13.02.2023"
+      },
+      {
+        "image": "db/img/t5.avif",
+        "description": "Saturated Eye Loose",
+        "date": "18.02.2022"
+      },
+      {
+        "image": "db/img/t6.avif",
+        "description": "Oversized Embro RAW",
+        "date": "10.08.2022"
+      },
+      {
+        "image": "db/img/t7.avif",
+        "description": "Overdyed Loose",
+        "date": "02.09.2021"
+      },
+      {
+        "image": "db/img/t8.avif",
+        "description": "Overdyed Loose",
+        "date": "02.02.2022"
+      },
+      {
+        "image": "db/img/t9.avif",
+        "description": "Holorn",
+        "date": "31.05.2023"
+      },
+      {
+        "image": "db/img/t10.avif",
+        "description": "Essential Loose 3/4 Sleeve",
+        "date": "09.11.2022"
+      },
+      {
+        "image": "db/img/t11.avif",
+        "description": "Desert Camo",
+        "date": "11.09.2022"
+      }
+    ]
+  },
+  {
+    "categoryName": "Рубашки",
+    "categoryId": "shirts",
+    "items": [
+      {
+        "image": "db/img/s1.avif",
+        "description": "Panel",
+        "date": "09.09.2019"
+      },
+      {
+        "image": "db/img/s2.avif",
+        "description": "Oversized Boxy",
+        "date": "20.07.2023"
+      },
+      {
+        "image": "db/img/s3.avif",
+        "description": "Oversized Boxy Fit",
+        "date": "10.12.2020"
+      },
+      {
+        "image": "db/img/s4.avif",
+        "description": "Oversized Boxy Fit",
+        "date": "14.11.2022"
+      },
+      {
+        "image": "db/img/s5.avif",
+        "description": "Oversized Boxy Fit",
+        "date": "11.08.2019"
+      },
+      {
+        "image": "db/img/s6.avif",
+        "description": "Marine Slim",
+        "date": "20.07.2023"
+      },
+      {
+        "image": "db/img/s7.avif",
+        "description": "Marine Slim",
+        "date": "05.05.2022"
+      },
+      {
+        "image": "db/img/s8.avif",
+        "description": "Marine Slim",
+        "date": "06.02.2023"
+      },
+      {
+        "image": "db/img/s9.avif",
+        "description": "Dressed Super Slim",
+        "date": "07.03.2023"
+      },
+      {
+        "image": "db/img/s10.avif",
+        "description": "Boxy Fit",
+        "date": "01.01.2022"
+      }
+    ]
+  },
+  {
+    "categoryName": "Худи",
+    "categoryId": "hoodies",
+    "items": [
+      {
+        "image": "db/img/h1.avif",
+        "description": "Cadet Strett",
+        "date": "04.05.2023"
+      },
+      {
+        "image": "db/img/h2.avif",
+        "description": "Garment Dyed Oversized",
+        "date": "09.09.2009"
+      },
+      {
+        "image": "db/img/h3.avif",
+        "description": "Garment Dyed Oversized",
+        "date": "10.04.2022"
+      },
+      {
+        "image": "db/img/h4.avif",
+        "description": "Garment Dyed Oversized",
+        "date": "07.09.2023"
+      },
+      {
+        "image": "db/img/h5.avif",
+        "description": "Irregular Graphics Loose",
+        "date": "01.10.2023"
+      },
+      {
+        "image": "db/img/h6.avif",
+        "description": "Moto Loose",
+        "date": "05.05.2015"
+      },
+      {
+        "image": "db/img/h7.avif",
+        "description": "Moto Loose",
+        "date": "04.06.2023"
+      },
+      {
+        "image": "db/img/h8.avif",
+        "description": "Moto Loose",
+        "date": "13.12.2012"
+      },
+      {
+        "image": "db/img/h9.avif",
+        "description": "Premium Core",
+        "date": "29.04.2022"
+      },
+      {
+        "image": "db/img/h10.avif",
+        "description": "Premium Core",
+        "date": "27.12.2022"
+      },
+      {
+        "image": "db/img/h11.avif",
+        "description": "Premium Core Hooded Zip",
+        "date": "16.11.2020"
+      },
+      {
+        "image": "db/img/h12.avif",
+        "description": "RAW University Oversized",
+        "date": "12.12.2012"
+      }
+    ]
+  },
+  {
+    "categoryName": "Кепки",
+    "categoryId": "caps",
+    "items": [
+      {
+        "image": "db/img/c1.avif",
+        "description": "Artwork Original",
+        "date": "11.11.2022"
+      },
+      {
+        "image": "db/img/c2.avif",
+        "description": "Artwork RAW Original",
+        "date": "07.07.2007"
+      },
+      {
+        "image": "db/img/c3.avif",
+        "description": "Artwork UOTF Original",
+        "date": "09.11.2023"
+      },
+      {
+        "image": "db/img/c4.avif",
+        "description": "Avernus Badge",
+        "date": "05.06.2008"
+      },
+      {
+        "image": "db/img/c5.avif",
+        "description": "Avernus Badge",
+        "date": "05.07.2012"
+      },
+      {
+        "image": "db/img/c6.avif",
+        "description": "Avernus RAW Artwork",
+        "date": "12.12.2021"
+      },
+      {
+        "image": "db/img/c7.avif",
+        "description": "Avernus RAW Artwork",
+        "date": "08.09.2022"
+      },
+      {
+        "image": "db/img/c8.avif",
+        "description": "Avernus RAW Artwork",
+        "date": "18.09.2022"
+      },
+      {
+        "image": "db/img/c9.avif",
+        "description": "Avernus RAW Artwork",
+        "date": "19.07.2023"
+      },
+      {
+        "image": "db/img/c10.avif",
+        "description": "Denim Embro Trucker",
+        "date": "14.12.2021"
+      },
+      {
+        "image": "db/img/c11.avif",
+        "description": "Embro Baseball Trucker",
+        "date": "10.10.2010"
+      },
+      {
+        "image": "db/img/c12.avif",
+        "description": "Embro Baseball Trucker",
+        "date": "11.08.2022"
+      },
+      {
+        "image": "db/img/c13.avif",
+        "description": "Original Denim Baseball",
+        "date": "17.12.2022"
+      },
+      {
+        "image": "db/img/c14.avif",
+        "description": "Originals Baseball",
+        "date": "09.08.2008"
+      },
+      {
+        "image": "db/img/c15.avif",
+        "description": "Originals Baseball",
+        "date": "24.10.2022"
+      },
+      {
+        "image": "db/img/c16.avif",
+        "description": "Originals Baseball",
+        "date": "27.09.2023"
+      },
+      {
+        "image": "db/img/c17.avif",
+        "description": "Premium Avernus RAW",
+        "date": "14.08.2021"
+      }
+    ]
+  }
+]

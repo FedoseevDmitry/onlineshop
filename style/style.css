@@ -1,0 +1,8 @@
+@import url(global.css);
+@import url(normalize.css);
+@import url(var.css);
+@import url(header/header.css);
+@import url(catalog/catalog.css);
+@import url(footer/footer.css);
+@import url(scroll/scroll.css);
+@import url(modal/modal.css);

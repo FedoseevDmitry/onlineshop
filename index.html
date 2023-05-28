@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Shop</title>
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="#" id="theme-link">
+  <script defer src="js/renderItems.js"></script>
+  <script defer src="js/themeSwitch.js"></script>
+  <script defer src="js/scrollToTop.js"></script>
+  <script defer src="js/switchModal.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="header__container container">
+      <div class="header__wrapper">
+        <nav class="header__nav nav">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a class="nav__link" href="#tshirts">Футболки</a>
+            </li>
+            <li class="nav__item">
+              <a class="nav__link" href="#shirts">Рубашки</a>
+            </li>
+            <li class="nav__item">
+              <a class="nav__link" href="#hoodies">Худи</a>
+            </li>
+            <li class="nav__item">
+              <a class="nav__link" href="#caps">Кепки</a>
+            </li>
+          </ul>
+        </nav>
+        <div class="header__theme-switch theme-switch">
+          <img class="theme-switch__img" src="style/header/img/moon.svg" alt="Иконка темы">
+          <input class="theme-switch__checkbox" type="checkbox" id="theme-toggle">
+          <label class="theme-switch__label" for="theme-toggle"></label>
+          <img class="theme-switch__img" src="style/header/img/moon-black.svg" alt="Иконка темы">
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <section class="catalog">
+      <div class="catalog__container container" id="catalog-container">
+      </div>
+    </section>
+    <button class="scroll-btn" id="scroll-to-top-button">
+      <img class="scroll-btn__img" src="style/scroll/img/arrow.svg" alt="Стрелка вверх">
+    </button>
+    <div class="modal">
+      <div class="modal__container">
+        <div class="modal__wrapper">
+          <button class="modal__btn">
+            <img class="modal__btn-img" src="style/modal/img/close.svg" alt="Иконка крестика"> 
+          </button>
+          <form class="modal__body modal__form form" action="https://jsonplaceholder.typicode.com/posts" method="post">
+            <div class="form__wrapper">
+              <label class="form__label">Количество товара:
+                <input class="form__input" required type="number" min="1" value="1" name="count">
+              </label>
+              <fieldset class="form__radio-wrapper">
+                <p class="form__text">Выберите цвет:</p>
+                <label class="form__label">Черный
+                  <input class="form__select" required type="radio" value="black" name="color">
+                </label>
+                <label class="form__label">Белый
+                  <input class="form__select" required type="radio" value="white" name="color">
+                </label>
+                <label class="form__label">Синий
+                  <input class="form__select" required type="radio" value="blue" name="color">
+                </label>
+                <label class="form__label">Красный
+                  <input class="form__select" required type="radio" value="red" name="color">
+                </label>
+              </fieldset>
+              <label class="form__label form__label_textarea">Введите комментарий к заказу:
+                <textarea class="form__textarea" cols="30" rows="10" maxlength="2000" name="comment"></textarea>
+              </label>
+            </div>
+            <button class="form__btn" type="submit">Купить</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="footer__container container">
+      <nav class="header__nav nav">
+        <ul class="nav__list nav__list_vertical">
+          <li class="nav__item">
+            <a class="nav__link" href="#tshirts">Футболки</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#shirts">Рубашки</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#hoodies">Худи</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#caps">Кепки</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  
+</body>
+</html>
